@@ -1,10 +1,10 @@
-list=["apple","cherry","lemon"]
-dict={"drink":"milk","1":"2"}
+list1=["apple","cherry","lemon"]
+dict1={"drink":"milk","1":"2"}
 
-for i in list:
+for i in list1:
     print(f"my food: {i}")
-for _,value in dict.items():
+for _,value in dict1.items():
     print(f"my favorite: {value}")
 
-#dict=dict
+#dict1=dict1
 #list2=
